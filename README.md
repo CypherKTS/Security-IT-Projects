@@ -20,5 +20,5 @@ The goal is to explore and develop practical skills across a variety of cybersec
 
 ## 👋 Author
 
-Uzi K., 2026. This repository was created as part of independent project works in offensive and defensive cybersecurity and information technology.
+Uzi K., 2026. This repository was created as part of independent project works in offensive & defensive cybersecurity and information technology.
 
