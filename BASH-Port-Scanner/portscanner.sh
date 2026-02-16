@@ -1,5 +1,3 @@
-BASH-Port-Scanner/portscanner.sh
-
 #!/bin/bash
 # portscanner.sh
 # Author: Uzair Khan
