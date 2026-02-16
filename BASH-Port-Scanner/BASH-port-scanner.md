@@ -1,5 +1,3 @@
-BASH-Port-Scanner/README.md
-
 # BASH Port Scanner
 
 ## Overview
