@@ -8,6 +8,7 @@ The goal is to explore and develop practical skills across a variety of cybersec
 ## 🛡️ Overview of Projects
 
 - **BASH Port Scanner** – A simple Bash script to scan for open ports on a given host.
+- **SHA-256 Calculator** - A Python script that calculates the SHA-256 hash of a given message.
 
 ---
 
