@@ -16,7 +16,7 @@ The goal is to explore and develop practical skills across a variety of cybersec
 ### 1. **[BASH Port Scanner](https://github.com/CypherKTS/Security-IT-Projects/tree/main/BASH-Port-Scanner)**
    - **Type**: Script
    - **Summary**: A simple TCP port scanner written in Bash. Scans a range of ports on a given host to check if they are open or closed.
-   - **Technologies**: Bash, TCP, Networking, Linux
+   - **Technologies**: Bash, TCP, Networking, Linux, Oracle VirtualBox
 
 ### 2. SHA-256 Calculator
    - **Type**: Script  
