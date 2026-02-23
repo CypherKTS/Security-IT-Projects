@@ -1,6 +1,8 @@
-'''Author: Uzair Khan
+'''
+Author: Uzair Khan
 Date: 02-22-2026
-Purpose: The purpose of this Python program is to calculate a SHA-256 hash for a message given a secret key.'''
+Purpose: The purpose of this Python program is to calculate a SHA-256 hash for a message given a secret key.
+'''
 import hashlib
 import hmac
 
@@ -22,4 +24,5 @@ if calculated_tag == provided_tag:
     print(f"Message: {calculated_tag} is the actual tag")
 else:
     print(f"Message: {message.decode()} is FORGED")
+
     print(f"Message: {calculated_tag} is the actual tag")
