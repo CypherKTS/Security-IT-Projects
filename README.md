@@ -19,7 +19,7 @@ The goal is to explore and develop practical skills across a variety of cybersec
    - **Summary**: A simple TCP port scanner written in Bash. Scans a range of ports on a given host to check if they are open or closed.
    - **Technologies**: Bash, TCP, Networking, Linux, Oracle VirtualBox
 
-### 2. SHA-256 Calculator
+### 2. **[SHA-256 Calculator](https://github.com/CypherKTS/Security-IT-Projects/tree/main/SHA-256%20Python%20Calculator)**
    - **Type**: Script  
    - **Summary**: A Python script that calculates the SHA-256 hash of a given message. It helps in understanding cryptographic hashing and its applications in data integrity.  
    - **Technologies**: Python, hashlib, Visual Studio Code, Cryptography
